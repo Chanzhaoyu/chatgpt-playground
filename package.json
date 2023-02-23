@@ -1,0 +1,10 @@
+{
+  "name": "chatgpt-playground",
+  "version": "1.0.0",
+  "scripts": {
+    "cleanup": "rimraf node_modules packages/**/node_modules"
+  },
+  "devDependencies": {
+    "rimraf": "^4.1.2"
+  }
+}
